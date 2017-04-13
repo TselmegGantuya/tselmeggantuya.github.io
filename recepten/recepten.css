@@ -1,0 +1,12 @@
+html{
+	margin:0;
+	height:100%;
+}
+body{
+	background-color:#fa5f16;
+}
+img{
+	width: 210 px;
+	height: 150px;
+    border-radius: 25px;
+}
